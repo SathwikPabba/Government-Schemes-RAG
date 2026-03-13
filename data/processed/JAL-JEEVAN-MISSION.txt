@@ -1,0 +1,28 @@
+SCHEME NAME: Jal Jeevan Mission (JJM)
+MINISTRY: Ministry of Jal Shakti
+CATEGORY: Water Supply / Rural Development
+STATE: Central Government
+
+DESCRIPTION:
+Jal Jeevan Mission aims to provide safe and adequate drinking water through individual household tap connections to all households in rural India by 2024.
+
+BENEFITS:
+- Tap water connection to every rural household
+- Minimum 55 litres per person per day
+- Clean piped water at household level
+- Employment during infrastructure creation
+- Improved health outcomes
+
+ELIGIBILITY:
+- All rural households without piped water connection
+- Priority to SC/ST households, JJM habitations
+- Schools and Anganwadi centers also covered
+
+HOW TO ACCESS:
+- Implemented by State Governments
+- Village Water and Sanitation Committee manages local infrastructure
+- Contact Gram Panchayat or Block Development Officer
+- Beneficiary households contribute to O&M
+
+OFFICIAL WEBSITE: jaljeevanmission.gov.in
+HELPLINE: 1916

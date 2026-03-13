@@ -1,0 +1,30 @@
+SCHEME NAME: Ayushman Bharat - Health and Wellness Centres (HWC)
+MINISTRY: Ministry of Health and Family Welfare
+CATEGORY: Primary Healthcare
+STATE: Central Government
+
+DESCRIPTION:
+Ayushman Bharat Health and Wellness Centres transform sub-health centres and primary health centres into comprehensive primary health care providers offering free essential medicines and diagnostics.
+
+BENEFITS:
+- Free primary healthcare services
+- Free essential medicines
+- Free diagnostic services
+- Teleconsultation services
+- Maternal and child health services
+- Mental health and palliative care
+- Screening for NCDs like diabetes and cancer
+
+ELIGIBILITY:
+- All citizens can access HWC services for free
+- No registration required
+- Universal access regardless of income
+
+HOW TO ACCESS:
+- Visit nearest Health and Wellness Centre
+- Located at sub-centre or primary health centre level
+- Mitra (health worker) available for assistance
+- Teleconsultation available for specialist advice
+
+OFFICIAL WEBSITE: nhm.gov.in
+HELPLINE: 104

@@ -1,0 +1,33 @@
+SCHEME NAME: Atal Pension Yojana (APY)
+MINISTRY: Ministry of Finance / PFRDA
+CATEGORY: Pension / Social Security
+STATE: Central Government
+
+DESCRIPTION:
+Atal Pension Yojana is a government-backed pension scheme for unorganized sector workers providing guaranteed pension of Rs. 1,000 to Rs. 5,000 per month at age 60.
+
+BENEFITS:
+- Guaranteed pension of Rs. 1,000 to Rs. 5,000 per month
+- Pension starts at age 60
+- On death of subscriber, spouse gets same pension
+- On death of both, nominee gets corpus amount
+
+ELIGIBILITY:
+- Indian citizens between 18 to 40 years
+- Must have a savings bank account
+- Must have mobile number linked to bank account
+- Not an income tax payer for government co-contribution
+
+HOW TO APPLY:
+1. Visit any bank branch or post office
+2. Fill APY registration form
+3. Provide Aadhaar and mobile number
+4. Choose pension amount Rs. 1,000 to 5,000
+5. Auto-debit mandate will be set up
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Bank account details
+- Mobile number
+
+OFFICIAL WEBSITE: npscra.nsdl.co.in

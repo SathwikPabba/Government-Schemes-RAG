@@ -1,0 +1,38 @@
+SCHEME NAME: Pradhan Mantri Awas Yojana - Urban (PMAY-U)
+MINISTRY: Ministry of Housing and Urban Affairs
+CATEGORY: Housing
+STATE: Central Government
+
+DESCRIPTION:
+PMAY-Urban aims to provide housing for all in urban areas. The scheme provides central assistance to Urban Local Bodies for providing houses to all eligible urban households.
+
+BENEFITS:
+- Interest subsidy on home loans
+- EWS/LIG: 6.5% interest subsidy for loan up to Rs. 6 lakh
+- MIG-I: 4% interest subsidy for loan up to Rs. 9 lakh
+- MIG-II: 3% interest subsidy for loan up to Rs. 12 lakh
+- Direct grant for house construction under BLC component
+
+ELIGIBILITY:
+- EWS: Annual household income up to Rs. 3 lakh
+- LIG: Annual household income Rs. 3-6 lakh
+- MIG-I: Annual household income Rs. 6-12 lakh
+- MIG-II: Annual household income Rs. 12-18 lakh
+- Beneficiary family should not own a pucca house anywhere in India
+
+HOW TO APPLY:
+1. Visit pmaymis.gov.in
+2. Click on Citizen Assessment
+3. Select the appropriate category
+4. Enter Aadhaar number
+5. Fill in all personal and income details
+6. Submit the application
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Income certificate
+- Bank account details
+- Property documents if applicable
+
+OFFICIAL WEBSITE: pmaymis.gov.in
+HELPLINE: 1800-11-6446

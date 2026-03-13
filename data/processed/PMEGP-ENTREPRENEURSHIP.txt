@@ -1,0 +1,37 @@
+SCHEME NAME: Prime Minister Employment Generation Programme (PMEGP)
+MINISTRY: Ministry of Micro Small and Medium Enterprises
+CATEGORY: Entrepreneurship / Self Employment
+STATE: Central Government
+
+DESCRIPTION:
+PMEGP is a credit-linked subsidy programme for generating employment through establishment of micro-enterprises in rural and urban areas.
+
+BENEFITS:
+- Subsidy 15-35% of project cost:
+  General category urban: 15%
+  General category rural: 25%
+  Special category SC/ST/OBC/Women urban: 25%
+  Special category rural: 35%
+- Maximum project cost: Rs. 50 lakh manufacturing, Rs. 20 lakh service
+- No collateral for loans up to Rs. 10 lakh
+
+ELIGIBILITY:
+- Any individual above 18 years
+- Minimum 8th pass for projects above Rs. 10 lakh manufacturing
+- Self Help Groups, charitable trusts also eligible
+- Existing units not eligible
+
+HOW TO APPLY:
+1. Visit kviconline.gov.in
+2. Register as applicant
+3. Fill online application with project details
+4. Select bank and submit
+5. Complete EDP training before loan disbursement
+
+DOCUMENTS REQUIRED:
+- Project report
+- Identity and address proof
+- Educational certificates
+- Caste certificate if applicable
+
+OFFICIAL WEBSITE: kviconline.gov.in/pmegp

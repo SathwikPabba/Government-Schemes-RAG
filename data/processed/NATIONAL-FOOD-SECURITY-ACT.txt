@@ -1,0 +1,37 @@
+SCHEME NAME: National Food Security Act (NFSA) - Public Distribution System
+MINISTRY: Ministry of Consumer Affairs Food and Public Distribution
+CATEGORY: Food Security
+STATE: Central Government
+
+DESCRIPTION:
+The National Food Security Act ensures food and nutritional security by providing subsidized food grains to approximately two-thirds of India's population through the Targeted Public Distribution System.
+
+BENEFITS:
+- Priority households: 5 kg food grains per person per month
+- Antyodaya households: 35 kg per family per month
+- Rice at Rs. 3 per kg
+- Wheat at Rs. 2 per kg
+- Coarse grains at Rs. 1 per kg
+- Pregnant women and lactating mothers entitled to free meals
+- Children 6 months to 14 years entitled to free meals
+
+ELIGIBILITY:
+- Priority Households as identified by State Governments
+- Antyodaya Anna Yojana households (poorest of poor)
+- Pregnant women and lactating mothers
+- Children up to 14 years
+
+HOW TO GET RATION CARD:
+1. Apply to nearest Food Supply Office
+2. Submit income and residence proof
+3. Ration card issued after verification
+4. Can also apply online through State portals
+
+DOCUMENTS REQUIRED:
+- Identity proof
+- Address proof
+- Income certificate
+- Family photograph
+
+OFFICIAL WEBSITE: dfpd.gov.in
+HELPLINE: 1967

@@ -1,0 +1,41 @@
+SCHEME NAME: Digital India Programme
+MINISTRY: Ministry of Electronics and Information Technology
+CATEGORY: Technology / Digital Transformation
+STATE: Central Government
+
+DESCRIPTION:
+Digital India is a flagship programme launched in July 2015 to transform India into a digitally empowered society and knowledge economy. It covers three key areas: digital infrastructure, digital services, and digital literacy.
+
+BENEFITS:
+- High speed internet in all gram panchayats
+- Common Service Centres (CSC) in every village
+- Digital Locker for storing documents online
+- eSign service for digital signatures
+- MyGov platform for citizen engagement
+- UMANG app for all government services
+- DigiMitra for last mile digital services
+- National Scholarships Portal
+- e-Hospital for online hospital services
+- Unified Mobile Application for government services
+
+KEY INITIATIVES:
+- DigiLocker: Store and share documents digitally
+- UMANG App: 1200+ government services on one app
+- Bharat Net: Broadband to all gram panchayats
+- Common Service Centres: 5 lakh+ centers nationwide
+- India Stack: APIs for digital services
+- CoWIN: Vaccination management platform
+
+ELIGIBILITY:
+- All Indian citizens
+- All government services now available digitally
+- No specific eligibility criteria
+
+HOW TO ACCESS:
+1. Visit digitalindia.gov.in
+2. Download UMANG app
+3. Register on DigiLocker at digilocker.gov.in
+4. Visit nearest Common Service Centre
+5. Use Aadhaar for digital authentication
+
+OFFICIAL WEBSITE: digitalindia.gov.in

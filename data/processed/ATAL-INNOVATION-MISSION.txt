@@ -1,0 +1,29 @@
+SCHEME NAME: Atal Innovation Mission (AIM)
+MINISTRY: NITI Aayog
+CATEGORY: Innovation / Entrepreneurship / Education
+STATE: Central Government
+
+DESCRIPTION:
+Atal Innovation Mission is the Government's flagship initiative to promote innovation and entrepreneurship across the country through Atal Tinkering Labs, Atal Incubation Centres, and Atal Community Innovation Centres.
+
+BENEFITS:
+- Atal Tinkering Labs: Rs. 20 lakh grant for schools
+- Atal Incubation Centres: Up to Rs. 10 crore for 5 years
+- Atal Community Innovation Centres for rural innovation
+- Mentorship and networking support
+- Access to tools like 3D printers, robotics kits
+- National competitions and recognition
+
+ELIGIBILITY:
+- Schools for Atal Tinkering Labs (Classes 6-12)
+- Educational institutions for Atal Incubation Centres
+- NGOs and community organizations for ACIC
+- Startups and entrepreneurs for incubation
+
+HOW TO APPLY:
+1. Visit aim.gov.in
+2. Apply online for relevant program
+3. Schools can apply for ATL grants
+4. Institutions apply for incubation centres
+
+OFFICIAL WEBSITE: aim.gov.in

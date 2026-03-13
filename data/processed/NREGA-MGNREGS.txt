@@ -1,0 +1,36 @@
+SCHEME NAME: Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)
+MINISTRY: Ministry of Rural Development
+CATEGORY: Employment / Rural Development
+STATE: Central Government
+
+DESCRIPTION:
+MGNREGS provides at least 100 days of guaranteed wage employment in a financial year to every household in rural areas whose adult members volunteer to do unskilled manual work.
+
+BENEFITS:
+- Minimum 100 days of wage employment per household per year
+- Wages paid at statutory minimum wage rates
+- Payment directly into bank/post office accounts
+- Work provided within 5 km of residence
+- If work not provided within 15 days, unemployment allowance paid
+
+ELIGIBILITY:
+- Rural households
+- Adult members 18 years and above
+- Willing to do unskilled manual work
+- Must be a resident of the Gram Panchayat area
+
+HOW TO APPLY:
+1. Visit your local Gram Panchayat office
+2. Register household by submitting application with family details
+3. Job Card will be issued within 15 days
+4. Submit written application for work
+5. Work will be provided within 15 days of application
+
+DOCUMENTS REQUIRED:
+- Proof of residence
+- Age proof for adult members
+- Photograph of all adult members
+- Bank account details
+
+OFFICIAL WEBSITE: nrega.nic.in
+HELPLINE: 1800-111-555

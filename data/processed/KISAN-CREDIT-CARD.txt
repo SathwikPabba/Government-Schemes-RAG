@@ -1,0 +1,36 @@
+SCHEME NAME: Kisan Credit Card (KCC)
+MINISTRY: Ministry of Agriculture and Farmers Welfare
+CATEGORY: Agriculture / Credit
+STATE: Central Government
+
+DESCRIPTION:
+The Kisan Credit Card scheme provides farmers with affordable credit for agricultural needs. The scheme was revamped in 2019 to include fishermen and animal husbandry farmers.
+
+BENEFITS:
+- Credit limit based on land holding and crops
+- Interest rate: 7% per annum effective 4% with subvention
+- Flexible repayment tied to harvest season
+- Personal accident insurance cover
+- Covers fishermen and animal husbandry farmers too
+
+ELIGIBILITY:
+- All farmers including small, marginal, tenant farmers
+- Oral lessees and sharecroppers
+- Self Help Groups of farmers
+- Fishermen with boat and license
+- Animal husbandry farmers
+
+HOW TO APPLY:
+1. Visit nearest bank branch
+2. Fill KCC application form
+3. Submit land records and ID proof
+4. Bank will assess credit limit based on land holding
+5. KCC issued as ATM-cum-debit card
+
+DOCUMENTS REQUIRED:
+- Land records / ownership documents
+- Identity proof Aadhaar/PAN
+- Address proof
+- Passport size photographs
+
+OFFICIAL WEBSITE: pmkisan.gov.in/kcc

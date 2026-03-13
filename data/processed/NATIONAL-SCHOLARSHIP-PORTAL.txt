@@ -1,0 +1,45 @@
+SCHEME NAME: National Scholarship Portal (NSP)
+MINISTRY: Multiple Ministries coordinated by MeitY
+CATEGORY: Education / Scholarships
+STATE: Central Government
+
+DESCRIPTION:
+The National Scholarship Portal is a one-stop platform hosting various scholarship schemes from Central Government, State Governments, and UGC/AICTE for SC, ST, OBC, minority communities and economically weaker sections.
+
+KEY SCHOLARSHIPS:
+1. Pre-Matric Scholarship for SC/ST/OBC students Class 1-10
+2. Post-Matric Scholarship for SC/ST/OBC students Class 11 onwards
+3. Merit-cum-Means Scholarship for Minorities
+4. National Merit Scholarship
+5. Central Sector Scholarship for College Students
+
+BENEFITS:
+- Financial assistance ranging from Rs. 1,000 to Rs. 20,000+ per year
+- Directly credited to student bank accounts
+- Covers tuition fees and maintenance allowance
+- Renewable annually subject to performance
+
+ELIGIBILITY:
+- Indian citizens
+- Family income below Rs. 2.5 lakh per year typically
+- Must belong to eligible category SC/ST/OBC/Minority/EWS
+- Must be studying in a recognized institution
+
+HOW TO APPLY:
+1. Visit scholarships.gov.in
+2. Register as new student
+3. Login and select applicable scholarship
+4. Fill application form
+5. Upload required documents
+6. Submit before deadline usually October-November
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Bank account details
+- Income certificate
+- Caste/community certificate
+- Previous year mark sheet
+- Bonafide certificate from institution
+
+OFFICIAL WEBSITE: scholarships.gov.in
+HELPLINE: 0120-6619540

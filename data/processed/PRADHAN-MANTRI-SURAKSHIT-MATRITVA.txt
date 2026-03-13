@@ -1,0 +1,30 @@
+SCHEME NAME: Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)
+MINISTRY: Ministry of Health and Family Welfare
+CATEGORY: Maternal Health
+STATE: Central Government
+
+DESCRIPTION:
+PMSMA provides fixed-day assured comprehensive and quality antenatal care to all pregnant women on the 9th of every month at government health facilities.
+
+BENEFITS:
+- Free antenatal checkup on 9th of every month
+- Blood pressure and weight check
+- Abdominal examination
+- Blood and urine tests
+- Ultrasound if needed
+- Iron and folic acid supplements
+- JSSK benefits for referral
+
+ELIGIBILITY:
+- All pregnant women in second and third trimester
+- Free service at all government health facilities
+- Private sector volunteers also participate
+
+HOW TO ACCESS:
+1. Visit nearest government health facility on 9th of month
+2. No appointment needed
+3. Carry MCP card
+4. Available at PHC, CHC, District Hospital
+
+OFFICIAL WEBSITE: pmsma.nhp.gov.in
+HELPLINE: 104

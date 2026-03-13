@@ -1,0 +1,28 @@
+SCHEME NAME: Soil Health Card Scheme
+MINISTRY: Ministry of Agriculture and Farmers Welfare
+CATEGORY: Agriculture
+STATE: Central Government
+
+DESCRIPTION:
+The Soil Health Card Scheme provides farmers with Soil Health Cards containing crop-wise recommendations for nutrients and fertilizers for individual farms to improve productivity.
+
+BENEFITS:
+- Free soil testing
+- Crop-wise fertilizer recommendations
+- Guidance on micronutrient deficiencies
+- Helps reduce fertilizer costs
+- Improves crop yield
+- Card issued every two years
+
+ELIGIBILITY:
+- All farmers across India
+- Free service for all landholding farmers
+
+HOW TO GET SOIL HEALTH CARD:
+1. Contact nearest Agriculture Department office
+2. Soil sample collected from your farm
+3. Sample tested at soil testing laboratory
+4. Card issued within 30 days
+5. Can also check soilhealth.dac.gov.in
+
+OFFICIAL WEBSITE: soilhealth.dac.gov.in

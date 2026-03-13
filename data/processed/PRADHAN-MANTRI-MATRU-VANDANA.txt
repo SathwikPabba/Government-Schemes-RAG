@@ -1,0 +1,34 @@
+SCHEME NAME: Pradhan Mantri Matru Vandana Yojana (PMMVY)
+MINISTRY: Ministry of Women and Child Development
+CATEGORY: Maternity Benefit / Women
+STATE: Central Government
+
+DESCRIPTION:
+PMMVY is a maternity benefit program providing cash incentives to pregnant and lactating women for the first living child to compensate for wage loss and improve health and nutrition.
+
+BENEFITS:
+- Rs. 5,000 cash incentive in three installments for first child
+- Rs. 6,000 for second child if girl
+- Installment 1: Rs. 1,000 after pregnancy registration
+- Installment 2: Rs. 2,000 after 6 months of pregnancy
+- Installment 3: Rs. 2,000 after child birth and registration
+
+ELIGIBILITY:
+- All pregnant and lactating women
+- For first living child (second child if girl from 2022)
+- Excluding central and state government employees
+- Age 19 years and above
+
+HOW TO APPLY:
+1. Register at nearest Anganwadi Centre or health facility
+2. Fill PMMVY form 1A for first installment
+3. Submit within 150 days of Last Menstrual Period
+4. Subsequent forms for other installments
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card of mother and father
+- Bank account details
+- MCP card (Mother and Child Protection card)
+
+OFFICIAL WEBSITE: wcd.nic.in/pmmvy
+HELPLINE: 7998799804

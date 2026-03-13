@@ -1,0 +1,36 @@
+SCHEME NAME: National Pension System (NPS)
+MINISTRY: Ministry of Finance / PFRDA
+CATEGORY: Pension / Retirement Savings
+STATE: Central Government
+
+DESCRIPTION:
+National Pension System is a voluntary retirement savings scheme that allows subscribers to make defined contributions towards planned savings and secure future through reasonable market-based returns.
+
+BENEFITS:
+- Market-linked returns (historically 9-12% per annum)
+- Tax benefit under Section 80C up to Rs. 1.5 lakh
+- Additional tax benefit under 80CCD(1B) up to Rs. 50,000
+- Employer contribution also tax-free under 80CCD(2)
+- Partial withdrawal allowed after 3 years
+- 60% lump sum tax-free on maturity
+
+ELIGIBILITY:
+- Indian citizens between 18-70 years
+- NRIs also eligible
+- Both salaried and self-employed can join
+
+HOW TO APPLY:
+1. Visit bank, post office, or Point of Presence (PoP)
+2. Fill NPS registration form
+3. Submit KYC documents
+4. Get PRAN (Permanent Retirement Account Number)
+5. Can also register online at enps.nsdl.com
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- PAN Card
+- Bank account details
+- Photograph
+
+OFFICIAL WEBSITE: npstrust.org.in
+HELPLINE: 1800-110-708

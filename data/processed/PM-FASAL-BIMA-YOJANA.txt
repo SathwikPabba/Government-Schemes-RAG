@@ -1,0 +1,37 @@
+SCHEME NAME: Pradhan Mantri Fasal Bima Yojana (PMFBY)
+MINISTRY: Ministry of Agriculture and Farmers Welfare
+CATEGORY: Crop Insurance
+STATE: Central Government
+
+DESCRIPTION:
+PMFBY provides comprehensive crop insurance coverage against non-preventable natural risks from pre-sowing to post-harvest stage.
+
+BENEFITS:
+- Very low premium rates:
+  Kharif crops: 2% of sum insured
+  Rabi crops: 1.5% of sum insured
+  Annual commercial crops: 5%
+- Covers losses from natural calamities, pests, diseases
+- Covers post-harvest losses for 14 days
+- Uses technology satellite and drones for quick settlement
+
+ELIGIBILITY:
+- All farmers growing notified crops in notified areas
+- Compulsory for loanee farmers
+- Voluntary for non-loanee farmers
+- Both landowner and tenant farmers eligible
+
+HOW TO APPLY:
+- Loanee farmers: automatically enrolled through bank
+- Non-loanee farmers visit nearest bank or CSC
+- Fill PMFBY application form
+- Pay premium before cut-off date
+- Can also apply on pmfby.gov.in
+
+DOCUMENTS REQUIRED:
+- Land records / sowing certificate
+- Bank account details
+- Aadhaar Card
+
+OFFICIAL WEBSITE: pmfby.gov.in
+HELPLINE: 14447

@@ -1,0 +1,32 @@
+SCHEME NAME: Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)
+MINISTRY: Ministry of Finance
+CATEGORY: Life Insurance
+STATE: Central Government
+
+DESCRIPTION:
+PMJJBY is a government-backed life insurance scheme for people between 18 and 50 years with bank accounts. It offers renewable one-year life cover of Rs. 2 lakh at Rs. 436 per year.
+
+BENEFITS:
+- Life insurance cover of Rs. 2 lakh
+- Premium: Rs. 436 per year auto-debited from bank account
+- Cover period: 1st June to 31st May
+- Death benefit for any cause of death
+
+ELIGIBILITY:
+- Age: 18 to 50 years
+- Must have a savings bank account
+- Must give consent for auto-debit of premium
+
+HOW TO APPLY:
+1. Visit your bank branch or insurance company
+2. Fill the enrollment form
+3. Give auto-debit consent
+4. Premium of Rs. 436 will be auto-debited every year
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Bank account details
+- Nomination details
+
+OFFICIAL WEBSITE: jansuraksha.gov.in
+HELPLINE: 1800-180-1111

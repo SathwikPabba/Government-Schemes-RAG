@@ -1,0 +1,41 @@
+SCHEME NAME: Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+MINISTRY: Ministry of Health and Family Welfare
+CATEGORY: Health Insurance
+STATE: Central Government
+
+DESCRIPTION:
+Ayushman Bharat PM-JAY is the world's largest health insurance scheme launched in September 2018. It provides health coverage of Rs. 5 lakh per family per year for secondary and tertiary care hospitalization. The scheme covers over 10 crore poor and vulnerable families.
+
+BENEFITS:
+- Health coverage of Rs. 5 lakh per family per year
+- Cashless and paperless treatment at empanelled hospitals
+- Covers pre and post hospitalization expenses
+- No restriction on family size or age
+- Covers 1,949 medical procedures
+- Covers all pre-existing diseases from day one
+- Transport allowance also provided
+
+ELIGIBILITY:
+- Families listed in Socio Economic Caste Census (SECC) 2011 data
+- All enrolled families under Rashtriya Swasthya Bima Yojana (RSBY)
+- No income limit - based on deprivation criteria
+
+HOW TO CHECK ELIGIBILITY:
+1. Visit pmjay.gov.in
+2. Click Am I Eligible
+3. Enter mobile number and OTP
+4. Search by name, HHD number, ration card, or mobile number
+
+HOW TO APPLY:
+- No registration needed if already in SECC database
+- Visit nearest Common Service Centre or empanelled hospital
+- Carry Aadhaar card or ration card for verification
+- Ayushman card will be issued at the hospital
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Ration Card
+- Any government ID proof
+
+OFFICIAL WEBSITE: pmjay.gov.in
+HELPLINE: 14555

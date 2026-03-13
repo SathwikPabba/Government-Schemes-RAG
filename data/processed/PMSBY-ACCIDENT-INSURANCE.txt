@@ -1,0 +1,31 @@
+SCHEME NAME: Pradhan Mantri Suraksha Bima Yojana (PMSBY)
+MINISTRY: Ministry of Finance
+CATEGORY: Accident Insurance
+STATE: Central Government
+
+DESCRIPTION:
+PMSBY is a government-backed accident insurance scheme for people between 18 and 70 years at a premium of just Rs. 20 per year.
+
+BENEFITS:
+- Rs. 2 lakh for accidental death or permanent total disability
+- Rs. 1 lakh for permanent partial disability
+- Premium: only Rs. 20 per year
+- Auto-debited from bank account in May each year
+
+ELIGIBILITY:
+- Age: 18 to 70 years
+- Must have a savings bank account
+- Must give consent for auto-debit
+
+HOW TO APPLY:
+1. Visit bank branch or use banking app
+2. Fill enrollment/auto-debit consent form
+3. Premium auto-debited on 1st June
+4. Coverage valid from 1st June to 31st May
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Bank account details
+
+OFFICIAL WEBSITE: jansuraksha.gov.in
+HELPLINE: 1800-180-1111

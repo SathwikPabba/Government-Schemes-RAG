@@ -1,0 +1,33 @@
+SCHEME NAME: Pradhan Mantri Kisan Mandhan Yojana (PM-KMY)
+MINISTRY: Ministry of Agriculture and Farmers Welfare
+CATEGORY: Farmer Pension
+STATE: Central Government
+
+DESCRIPTION:
+PM-KMY is a voluntary and contributory pension scheme for small and marginal farmers providing minimum assured pension of Rs. 3,000 per month after age 60.
+
+BENEFITS:
+- Minimum pension of Rs. 3,000 per month after age 60
+- Government contributes equal amount to farmer's contribution
+- Family pension of 50% (Rs. 1,500) to spouse on death
+- If farmer dies before 60, spouse can continue or withdraw
+
+ELIGIBILITY:
+- Small and marginal farmers with up to 2 hectares land
+- Age: 18-40 years at time of enrollment
+- Not covered under NPS, ESIC, EPFO
+- Not an income tax payer
+
+CONTRIBUTION:
+- Age 18: Rs. 55 per month
+- Age 30: Rs. 110 per month
+- Age 40: Rs. 200 per month
+- Government contributes equal amount
+
+HOW TO APPLY:
+1. Visit nearest Common Service Centre with Aadhaar and bank passbook
+2. Self-enroll at maandhan.in
+3. Auto-debit from PM-KISAN installment also possible
+
+OFFICIAL WEBSITE: maandhan.in
+HELPLINE: 1800-267-6888

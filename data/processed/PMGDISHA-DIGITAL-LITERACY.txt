@@ -1,0 +1,34 @@
+SCHEME NAME: Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA)
+MINISTRY: Ministry of Electronics and Information Technology
+CATEGORY: Digital Literacy / Education
+STATE: Central Government
+
+DESCRIPTION:
+PMGDISHA aims to make six crore rural households digitally literate by training one member per eligible household to use computers, smartphones, and the internet for daily tasks and government services.
+
+BENEFITS:
+- Free digital literacy training
+- Government-recognized certificate
+- Training in operating computers and smartphones
+- Learning internet browsing and email
+- Digital payments and online government services
+- Social media awareness
+
+ELIGIBILITY:
+- Rural households
+- One member per household
+- Age: 14 to 60 years
+- Priority to SC/ST, minorities, women, differently-abled, BPL
+
+HOW TO APPLY:
+1. Visit pmgdisha.in and register online
+2. Contact nearest Common Service Centre
+3. Visit Gram Panchayat office
+4. Training conducted at local training centers
+5. 20-hour training program over multiple sessions
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Proof of rural residence
+
+OFFICIAL WEBSITE: pmgdisha.in

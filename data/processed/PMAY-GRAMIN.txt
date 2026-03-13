@@ -1,0 +1,37 @@
+SCHEME NAME: Pradhan Mantri Awas Yojana - Gramin (PMAY-G)
+MINISTRY: Ministry of Rural Development
+CATEGORY: Rural Housing
+STATE: Central Government
+
+DESCRIPTION:
+PMAY-Gramin aims to provide pucca houses with basic amenities to all houseless and those living in kutcha and dilapidated houses in rural areas by 2024.
+
+BENEFITS:
+- Rs. 1.20 lakh assistance in plains
+- Rs. 1.30 lakh in hilly/difficult areas
+- Toilet construction support under SBM
+- MGNREGS wages for unskilled labor (90-95 days)
+- Piped water connection under JJM
+- Direct bank transfer to beneficiary
+
+ELIGIBILITY:
+- Based on SECC 2011 data
+- Houseless families
+- Families living in 0 or 1 room kutcha house
+- SC/ST households
+- Freed bonded laborers
+- Families with no adult earning member
+
+HOW TO APPLY:
+- Beneficiary list based on SECC data
+- Contact Gram Panchayat or Block Development Officer
+- Verification done by Gram Sabha
+- Can check status on pmayg.nic.in
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Bank account details
+- Job Card (MGNREGS)
+
+OFFICIAL WEBSITE: pmayg.nic.in
+HELPLINE: 1800-11-6446
