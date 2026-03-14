@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 
-const API_URL = "https://government-schemes-rag.onrender.com";
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
 const SAMPLE_QUESTIONS = [
   "Who is eligible for PM-KISAN?",
