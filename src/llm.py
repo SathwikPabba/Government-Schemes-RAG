@@ -18,9 +18,9 @@ CITIZEN'S QUESTION: {question}
 
 INSTRUCTIONS:
 - Answer the EXACT question asked — nothing more, nothing less
-- Lead with the most important fact first (amount, number, percentage)
+- Give a comprehensive answer covering benefits, eligibility and how to apply
 - Use EXACT figures from context (Rs. 20, Rs. 2 lakh, 35%, 100 days)
-- Keep answer to 2-4 sentences maximum
+- Keep answer to 4-6 sentences maximum
 - Mention scheme name once clearly
 - Never use phrases like "based on context" or "according to information"
 - Never add unsolicited advice or extra information
@@ -39,7 +39,7 @@ def get_llm(temperature: float = 0):
         model="llama-3.1-8b-instant",
         groq_api_key=os.getenv("GROQ_API_KEY"),
         temperature=temperature,
-        max_tokens=1024,
+        max_tokens=2048,
     )
     return llm
 
